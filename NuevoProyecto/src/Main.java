@@ -5,8 +5,23 @@ import java.io.IOException;
 public class Main {
     public static void main(String[] args) {
         ProcessBuilder proceso = new ProcessBuilder("kcalc");
+        ProcessBuilder comandos = new ProcessBuilder("konsole","--hold", "-e", "ls -la");
         try {
-            proceso.start();
+            Process calcu = proceso.start();
+            comandos.inheritIO();
+            comandos.start();
+
+            Runtime.getRuntime().exec("kcalc");
+
+            calcu.destroy();
+
+            Runtime r = Runtime.getRuntime();
+            String comando = "cmd /c dir";
+            
+            Process p;
+            p = r.exec(comando);
+
+
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
