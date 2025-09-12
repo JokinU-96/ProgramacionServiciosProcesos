@@ -14,6 +14,7 @@ public class Intro {
             Runtime.getRuntime().exec("kcalc");
 
             calcu.destroy();
+            calcu.destroyForcibly();//Cuando el destroy no cierra el proceso.
 
             Runtime r = Runtime.getRuntime();
             String comando = "cmd /c dir";
