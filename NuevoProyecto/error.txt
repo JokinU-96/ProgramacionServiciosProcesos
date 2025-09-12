@@ -1,2 +1,0 @@
-QLayout: Cannot add a null widget to QHBoxLayout/
-QThreadStorage: Thread 0x556ef23a5700 exited after QThreadStorage 9 destroyed
