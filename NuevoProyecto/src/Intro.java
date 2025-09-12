@@ -2,7 +2,7 @@ import java.io.IOException;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
+public class Intro {
     public static void main(String[] args) {
         ProcessBuilder proceso = new ProcessBuilder("kcalc");
         ProcessBuilder comandos = new ProcessBuilder("konsole","--hold", "-e", "ls -la");
