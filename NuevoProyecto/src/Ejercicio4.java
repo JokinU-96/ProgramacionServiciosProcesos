@@ -12,8 +12,8 @@ public class Ejercicio4 {
 
         try {
 
-            pb.redirectOutput(new File("salida.txt"));
-            pb.redirectError(new File("error.txt"));
+            //pb.redirectOutput(new File("salida.txt"));
+            //pb.redirectError(new File("error.txt"));
 
             proceso = pb.start();
 
@@ -24,7 +24,8 @@ public class Ejercicio4 {
             String line;
             while ((line = br.readLine()) != null) {
                 sb.append(line + "\n");
-                sb.append(System.getProperty("line.separator"));
+                System.out.println(line);
+                //sb.append(System.getProperty("line.separator"));
             }
 
             System.out.println(sb);

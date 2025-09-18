@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 
 public class Ejercicio3 {
     public static void main(String[] args) {
-        ProcessBuilder pb = new ProcessBuilder("konsole", "-e", "whoami");
+        ProcessBuilder pb = new ProcessBuilder("bash", "-c", "whoami");
         Process proceso = null;
 
         String output ="";
@@ -30,7 +30,7 @@ public class Ejercicio3 {
             }
 
             //output = sb.toString();
-            System.out.println(variable.toString());
+            System.out.println(variable);
 
         }catch (Exception e){
             System.out.println(e.getMessage());
