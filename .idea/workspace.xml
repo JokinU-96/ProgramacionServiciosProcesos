@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33d33fd6-e62e-4470-8ef8-222e8d4a9e79" name="Changes" comment="Hilos">
+    <list default="true" id="33d33fd6-e62e-4470-8ef8-222e8d4a9e79" name="Changes" comment="Synchronized">
+      <change afterPath="$PROJECT_DIR$/MultiHilo/src/Monitores/Ej1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiHilo/src/Monitores/Ej2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiHilo/src/Synchronized/Ej3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiHilo/src/Synchronized/Compartido.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiHilo/src/Synchronized/Compartido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiHilo/src/Synchronized/Ej1.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiHilo/src/Synchronized/Ej1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +72,11 @@
       <workItem from="1758225221601" duration="22000" />
       <workItem from="1758225397094" duration="44000" />
       <workItem from="1758305459697" duration="29000" />
+      <workItem from="1758910261145" duration="87000" />
+      <workItem from="1759430437666" duration="63000" />
+      <workItem from="1759509367594" duration="41000" />
+      <workItem from="1759524820642" duration="9000" />
+      <workItem from="1760027687848" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicios de Eider">
       <option name="closed" value="true" />
@@ -92,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758225436385</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Synchronized">
+      <option name="closed" value="true" />
+      <created>1758910326203</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1758910326203</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +130,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ejercicios de Eider" />
     <MESSAGE value="Hilos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hilos" />
+    <MESSAGE value="Synchronized" />
+    <option name="LAST_COMMIT_MESSAGE" value="Synchronized" />
   </component>
 </project>
