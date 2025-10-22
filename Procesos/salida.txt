@@ -1,0 +1,6 @@
+total 8
+-rw-r--r--  1 jokinu  staff  423 Sep 12 14:50 NuevoProyecto.iml
+-rw-r--r--@ 1 jokinu  staff    0 Sep 12 21:22 error.txt
+drwxr-xr-x@ 3 jokinu  staff   96 Sep 12 14:53 out
+-rw-r--r--@ 1 jokinu  staff    0 Sep 12 21:22 salida.txt
+drwxr-xr-x  7 jokinu  staff  224 Sep 12 21:22 src
