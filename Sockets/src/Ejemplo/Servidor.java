@@ -27,6 +27,10 @@ public class Servidor {
             salida.writeUTF("Petición recibida. " + '\"' + peticion + '\"');
             salida.writeUTF("Otra respuesta hacia el cliente.");
 
+            // Otro tipo de flujo datos.
+            PrintWriter escritorio = new PrintWriter(salida);
+            escritorio.println(); // Así se escribe con el print writer.
+
             //Cerrar conexión y flujos de datos.
             entrada.close();
             escritura.close();
