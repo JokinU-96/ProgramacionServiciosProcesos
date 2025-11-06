@@ -17,7 +17,7 @@ public class Conexion {
             int opcion = 1;
 
             while (opcion != 0) {
-                System.out.print("Operación: \nSuma -> 1\nResta -> 2\nDvision -> 3\nMultiplicación -> 4");
+                System.out.print("Operación: \nSuma -> 1\nResta -> 2\nDivisión -> 3\nMultiplicación -> 4");
                 opcion = Integer.parseInt(System.console().readLine());
 
                 switch (opcion) {
