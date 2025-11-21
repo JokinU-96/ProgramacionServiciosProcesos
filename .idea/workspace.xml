@@ -4,7 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33d33fd6-e62e-4470-8ef8-222e8d4a9e79" name="Changes" comment="Avanzando" />
+    <list default="true" id="33d33fd6-e62e-4470-8ef8-222e8d4a9e79" name="Changes" comment="Avanzando">
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/Ejercicios2425.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/LOGJOKIN.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/LOGJOKIN.log.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/ProgramacionSegura.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/cifradoSimetrico.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/cifradoSimetrico/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/cifradoSimetrico/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/cifradoSimetrico/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/cifradoSimetrico/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/cifradoSimetrico/cifradoSimetrico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/cifradoSimetrico/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/cifradoSimetrico/src/Hilo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/cifradoSimetrico/src/Servidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/src/CifradoAsimetrico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/src/CifradoSimetrico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/src/Ejercicio1/Ejercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/src/Ejercicio2/Ejercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/src/Ejercicio3/Ejercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/src/Ejercicio4/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/src/Ejercicio4/Conexion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/src/Ejercicio4/Servidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/src/Ejercicio5/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/src/Ejercicio5/Servidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/src/cipher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/src/cripto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sockets/out/production/Sockets/Ejercicio6/Cliente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sockets/out/production/Sockets/Ejercicio6/Conexion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sockets/out/production/Sockets/Ejercicio6/Servidor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sockets/out/production/Sockets/Ejercicio6/enunciado.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sockets/src/Ejercicio6/Conexion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sockets/out/production/Sockets/Ejercicio2/Servidor.class" beforeDir="false" afterPath="$PROJECT_DIR$/Sockets/out/production/Sockets/Ejercicio2/Servidor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sockets/out/production/Sockets/Ejercicio8_TCP_Objetos/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/Sockets/out/production/Sockets/Ejercicio8_TCP_Objetos/Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sockets/src/Ejercicio2/Servidor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sockets/src/Ejercicio2/Servidor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sockets/src/Ejercicio6/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sockets/src/Ejercicio6/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sockets/src/Ejercicio6/Servidor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sockets/src/Ejercicio6/Servidor.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,29 +76,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHELLCHECK.PATH": "/Users/jokinu/Library/Application Support/JetBrains/IntelliJIdea2025.2/plugins/Shell Script/shellcheck",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/jokinu/Documents/Egibide/ProgramacionServiciosProcesos",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHELLCHECK.PATH&quot;: &quot;/Users/jokinu/Library/Application Support/JetBrains/IntelliJIdea2025.2/plugins/Shell Script/shellcheck&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jokinu/Documents/Egibide/ProgramacionServiciosProcesos&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="ProgramacionServiciosProcesos" />
@@ -154,6 +196,7 @@
       <workItem from="1761326612233" duration="41000" />
       <workItem from="1761328757235" duration="77000" />
       <workItem from="1761932409591" duration="241000" />
+      <workItem from="1763745777352" duration="15000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicios de Eider">
       <option name="closed" value="true" />

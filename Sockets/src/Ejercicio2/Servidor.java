@@ -32,7 +32,7 @@ public class Servidor {
 
                 peticion = lectura.readUTF();
 
-                System.out.println(peticion + " <- un mensaje recibido.");
+                System.out.println(peticion + " <- Un mensaje recibido.");
 
                 salida = cliente.getOutputStream();
                 escritura = new DataOutputStream(salida);
