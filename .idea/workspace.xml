@@ -5,52 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33d33fd6-e62e-4470-8ef8-222e8d4a9e79" name="Changes" comment="Avanzando">
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/Ejercicios2425.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/LOGJOKIN.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/LOGJOKIN.log.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/ProgramacionSegura.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/cifradoSimetrico.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/cifradoSimetrico/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/cifradoSimetrico/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/cifradoSimetrico/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/cifradoSimetrico/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/cifradoSimetrico/cifradoSimetrico.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/cifradoSimetrico/src/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/cifradoSimetrico/src/Hilo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/cifradoSimetrico/src/Servidor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/src/CifradoAsimetrico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/src/CifradoSimetrico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/src/Ejercicio1/Ejercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/src/Ejercicio2/Ejercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/src/Ejercicio3/Ejercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/src/Ejercicio4/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/src/Ejercicio4/Conexion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/src/Ejercicio4/Servidor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/src/Ejercicio5/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/src/Ejercicio5/Servidor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/src/cipher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/src/cripto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sockets/out/production/Sockets/Ejercicio6/Cliente.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sockets/out/production/Sockets/Ejercicio6/Conexion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sockets/out/production/Sockets/Ejercicio6/Servidor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sockets/out/production/Sockets/Ejercicio6/enunciado.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sockets/src/Ejercicio6/Conexion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sockets/out/production/Sockets/Ejercicio2/Servidor.class" beforeDir="false" afterPath="$PROJECT_DIR$/Sockets/out/production/Sockets/Ejercicio2/Servidor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sockets/out/production/Sockets/Ejercicio8_TCP_Objetos/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/Sockets/out/production/Sockets/Ejercicio8_TCP_Objetos/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sockets/src/Ejercicio2/Servidor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sockets/src/Ejercicio2/Servidor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sockets/src/Ejercicio6/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sockets/src/Ejercicio6/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sockets/src/Ejercicio6/Servidor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sockets/src/Ejercicio6/Servidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/src/Ejercicio7/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/src/Ejercicio7/Servidor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramacionSegura/Ejercicios2425.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramacionSegura/src/Ejericio6/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramacionSegura/src/Ejercicio6/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramacionSegura/src/Ejericio6/Servidor.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramacionSegura/src/Ejercicio6/Servidor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -62,12 +33,12 @@
     &quot;assignee&quot;: &quot;JokinU-96&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/JokinU-96/ProgramacionServiciosProcesos.git&quot;,
-    &quot;accountId&quot;: &quot;82ae6e5b-2921-4efb-85b5-67e6abe7a831&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/JokinU-96/ProgramacionServiciosProcesos.git",
+    "accountId": "12ea0cdd-4502-4670-b42f-df96adff529b"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -76,41 +47,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHELLCHECK.PATH&quot;: &quot;/Users/jokinu/Library/Application Support/JetBrains/IntelliJIdea2025.2/plugins/Shell Script/shellcheck&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/jokinu/Documents/Egibide/ProgramacionServiciosProcesos&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHELLCHECK.PATH": "/Users/jokinu/Library/Application Support/JetBrains/IntelliJIdea2025.2/plugins/Shell Script/shellcheck",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/jokinu/Documents/Egibide/ProgramacionServiciosProcesos",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/149fa02@arriagainfo.local/Documentos/ProgramacionServiciosProcesos/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/ProgramacionSegura" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="ProgramacionServiciosProcesos" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="ProgramacionServiciosProcesos" />
-      <option name="filePath" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="ProgramacionServiciosProcesos" />
       <option name="ENV_FILES" value="" />
@@ -165,8 +132,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
       </set>
     </attachedChunks>
   </component>
@@ -197,6 +164,7 @@
       <workItem from="1761328757235" duration="77000" />
       <workItem from="1761932409591" duration="241000" />
       <workItem from="1763745777352" duration="15000" />
+      <workItem from="1764265126855" duration="2166000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicios de Eider">
       <option name="closed" value="true" />
@@ -284,5 +252,16 @@
     <MESSAGE value="Synchronized" />
     <MESSAGE value="Avanzando" />
     <option name="LAST_COMMIT_MESSAGE" value="Avanzando" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
