@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33d33fd6-e62e-4470-8ef8-222e8d4a9e79" name="Changes" comment="Avanzando">
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/src/Ejercicio7/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramacionSegura/src/Ejercicio7/Servidor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramacionSegura/Ejercicios2425.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramacionSegura/src/Ejericio6/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramacionSegura/src/Ejercicio6/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramacionSegura/src/Ejericio6/Servidor.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramacionSegura/src/Ejercicio6/Servidor.java" afterDir="false" />
+    <list default="true" id="33d33fd6-e62e-4470-8ef8-222e8d4a9e79" name="Changes" comment="Keytool">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramacionSegura/AlmacenSSLRSA.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramacionSegura/src/Ejercicio7/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramacionSegura/src/Ejercicio7/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramacionSegura/src/Ejercicio7/Servidor.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramacionSegura/src/Ejercicio7/Servidor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Cliente.executor": "Run",
+    "Application.Servidor.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -64,8 +66,8 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/home/149fa02@arriagainfo.local/Documentos/ProgramacionServiciosProcesos/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15917969",
     "project.structure.side.proportion": "0.2",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
@@ -77,7 +79,7 @@
       <recent name="$PROJECT_DIR$/ProgramacionSegura" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Cliente">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="ProgramacionServiciosProcesos" />
       <option name="ENV_FILES" value="" />
@@ -128,6 +130,38 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <method v="2" />
     </configuration>
+    <configuration name="Cliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio7.Cliente" />
+      <module name="ProgramacionServiciosProcesos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Servidor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio7.Servidor" />
+      <module name="ProgramacionServiciosProcesos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Cliente" />
+        <item itemvalue="Application.Servidor" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -164,7 +198,7 @@
       <workItem from="1761328757235" duration="77000" />
       <workItem from="1761932409591" duration="241000" />
       <workItem from="1763745777352" duration="15000" />
-      <workItem from="1764265126855" duration="2166000" />
+      <workItem from="1764265126855" duration="3677000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicios de Eider">
       <option name="closed" value="true" />
@@ -229,7 +263,15 @@
       <option name="presentableId" value="LOCAL−00008" />
       <updated>1761130541508</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Keytool">
+      <option name="closed" value="true" />
+      <created>1764268074620</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1764268074620</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,7 +293,8 @@
     <MESSAGE value="Hilos" />
     <MESSAGE value="Synchronized" />
     <MESSAGE value="Avanzando" />
-    <option name="LAST_COMMIT_MESSAGE" value="Avanzando" />
+    <MESSAGE value="Keytool" />
+    <option name="LAST_COMMIT_MESSAGE" value="Keytool" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
